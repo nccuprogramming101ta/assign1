@@ -55,4 +55,3 @@ void draw() {
   rect(8,8,w,15);
   image(hp,0,0);
 }
-
